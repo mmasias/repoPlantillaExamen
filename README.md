@@ -36,18 +36,17 @@ A continuación una lista de artefactos que habitualmente constituyen la entrega
 
 ## Se valorará
 
-- Proceso de creación.
+- Proceso de creación - *en la forma de commits adecuadamente realizados y descritos*.
 - Exactitud en la solución.
-- Adecuado reparto de responsabilidades.
-- Código limpio.
-- Claridad del código.
+- Adecuado reparto de responsabilidades - *entre los módulos que formen parte de la solución*.
+- Código limpio & claridad del código - *innegociable*.
 - Gestión de estados.
-- Y, por supuesto, el uso de los temas vistos en clase.
+- Y, por supuesto, el uso, apego y aplicación de los temas vistos en clase (y en la carrera).
 
 ### Se propone/sugiere
 
 |||
 |-|-|
 |Planificación| Planifique su enfoque utilizando diagramas, esquemas, estados y/o pseudocódigo. Lo puede aportar en su repo, como diagrama o como imagen (foto), en la carpeta adecuada y enlazado desde el README.md|
-|Documentación|En dicho README.md puede explicar cómo cada parte contribuye a la solución general. Y como hemos debatido ampliamente, evite los comentarios a su código: ¡que el código se autoexplique!.|
+|Documentación|En dicho README.md puede explicar cómo cada parte contribuye a la solución general. Y como hemos debatido ampliamente, evite los comentarios a su código: ¡que el código se autoexplique y que los commits exquipen el proceso de creación!|
 |Delegación de responsabilidades|Dedíquele un momento a reflexionar sobre cómo reparte las responsabilidades entre los diferentes artefactos y cómo esto afecta la claridad y eficiencia de su solución.|
